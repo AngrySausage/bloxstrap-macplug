@@ -13,6 +13,8 @@ This a drop-in replacement for the stock Roblox bootstrapper, working more or le
 Running into a problem or need help with something? [Check out the Wiki](https://github.com/pizzaboxer/bloxstrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/pizzaboxer/bloxstrap/issues) or report it in our [Discord server](https://discord.gg/nKjV3mGq6R).
  
 Bloxstrap is only supported for PCs running Windows.
+
+Currently there is an unofficial MacOS Port in the works, [check it out here.](https://github.com/sdhEmily/RobloxPatcher)
  
  ## Installing
 Download the [latest release of Bloxstrap](https://github.com/pizzaboxer/bloxstrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
